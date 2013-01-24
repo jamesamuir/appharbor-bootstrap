@@ -102,7 +102,6 @@
     <Content Include="Content\themes\bootstrap\css\bootstrap-responsive.min.css" />
     <Content Include="Content\themes\bootstrap\css\bootstrap.css" />
     <Content Include="Content\themes\bootstrap\css\bootstrap.min.css" />
-    <Content Include="Content\themes\bootstrap\css\helpcastr.css" />
     <Content Include="Content\themes\bootstrap\css\jquery-ui-1.8.21.custom.css" />
     <Content Include="Content\themes\bootstrap\img\bg-btn-green-lrg.png" />
     <Content Include="Content\themes\bootstrap\img\bg-btn-green-med.png" />
@@ -236,7 +235,6 @@
     <None Include="Content\themes\bootstrap\less\footer.less" />
     <None Include="Content\themes\bootstrap\less\forms.less" />
     <None Include="Content\themes\bootstrap\less\grid.less" />
-    <None Include="Content\themes\bootstrap\less\helpcastr.less" />
     <None Include="Content\themes\bootstrap\less\hero-unit.less" />
     <None Include="Content\themes\bootstrap\less\labels-badges.less" />
     <None Include="Content\themes\bootstrap\less\layouts.less" />
